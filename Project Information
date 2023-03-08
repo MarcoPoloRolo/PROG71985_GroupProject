@@ -1,0 +1,27 @@
+# PROG71985_GroupProject
+This is the group project for group 4
+
+To-Do:
+1. a calendar/appointment manager
+2. a to-do/task manager
+3. a recipe (as in cooking) manager
+4. (some other) activity manager **you must get prior approval from professor *before* choosing this option**
+
+Mandatory Features:
+1. add a new appt/task/recipe/other
+2. delete an existing appt/task/recipe/other
+3. update an existing appt/task/recipe/other
+4. display single appt/task/recipe/other
+5. display range appt/task/recipe/other
+6. display all appt/task/recipe/other
+7. search for appt/task/recipe/other
+8. friendly/easy to use UI (or menu system)
+9. save accumulated data to disk
+10. load accumulated data from disk
+11. you may add additional features, increasing your group’s overall mark to a maximum of 100%.
+
+Organization:
+• modules properly separated and coded into .h and .c files
+• modules should be commented according to class practices and include who authored and/or the principal editor of the module
+• build instructions should be included (or obvious (e.g. a single VS solution))
+• wherever used, tests (unit or otherwise) should be properly documented and included
