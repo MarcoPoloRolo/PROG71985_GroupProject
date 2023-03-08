@@ -2,19 +2,16 @@
 This is the group project for group 4
 
 To-Do:
-1. a calendar/appointment manager
-2. a to-do/task manager
 3. a recipe (as in cooking) manager
-4. (some other) activity manager **you must get prior approval from professor *before* choosing this option**
 
 Mandatory Features:
-1. add a new appt/task/recipe/other
-2. delete an existing appt/task/recipe/other
-3. update an existing appt/task/recipe/other
-4. display single appt/task/recipe/other
-5. display range appt/task/recipe/other
-6. display all appt/task/recipe/other
-7. search for appt/task/recipe/other
+1. add a new recipe
+2. delete an existing recipe
+3. update an existing recipe
+4. display single recipe
+5. display range recipe
+6. display all recipe
+7. search for recipe
 8. friendly/easy to use UI (or menu system)
 9. save accumulated data to disk
 10. load accumulated data from disk
